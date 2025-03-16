@@ -1,6 +1,5 @@
 # Solution-Challenge-Blood-Donation-App
 
-# Solution-Challenge-Blood-Donation-App
 🩸 Blood Donation App
 📌 About the App
 The Blood Donation App is a Flutter-based platform designed to efficiently connect blood donors with receivers. It simplifies finding donors based on blood groups and location, ensuring quick access to lifesaving blood donations.
