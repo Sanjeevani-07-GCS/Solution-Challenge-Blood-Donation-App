@@ -1,20 +1,16 @@
-# Solution-Challenge-Blood-Donation-App
+# blood_don
 
-🩸 Blood Donation App
-📌 About the App
-The Blood Donation App is a Flutter-based platform designed to efficiently connect blood donors with receivers. It simplifies finding donors based on blood groups and location, ensuring quick access to lifesaving blood donations.
+A new Flutter project.
 
-🌟 Key Features
-✅ Donor Registration – Donors register with their name, email, phone, address, blood group, and live location.
-✅ Receiver Registration – Receivers verify their phone number via OTP before accessing the donor list.
-✅ Blood Group Selection – A well-styled list of blood groups is available after registration.
-✅ Donor List & Search – View available donors per blood group with filtering options.
-✅ Profile Management – Donors can edit their profiles and upload profile pictures.
-✅ Modern UI – A sleek, user-friendly interface with icons, colors, and intuitive navigation.
+## Getting Started
 
-🚀 How to Run
-Open the app in DartPad or any Dart-compatible IDE.
-Run each module independently for testing.
-Enjoy a seamless blood donation experience!
-👨‍💻 Contributions & Feedback
-We welcome contributions and suggestions to enhance the app! Fork, contribute, and help save lives. 💖
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
